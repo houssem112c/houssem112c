@@ -145,6 +145,11 @@ adge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" /><
 </p>
 
 ---
+### ⏳ WakaTime Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@houssem112c&theme=radical&layout=compact" alt="WakaTime Stats" />
+</p>
+---
 
 ## 🌎 Connect with Me
 <p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
